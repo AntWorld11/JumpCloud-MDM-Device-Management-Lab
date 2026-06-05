@@ -49,6 +49,15 @@ Examples:
 <img width="805" height="630" alt="Screenshot 2026-06-03 215721" src="https://github.com/user-attachments/assets/b3398fb8-213e-42ef-ba45-24857312f455" />
 <img width="1656" height="367" alt="Screenshot 2026-06-03 214352" src="https://github.com/user-attachments/assets/86cd304c-ec3a-439e-a21a-750e2e5e3fb8" />
 
+## Troubleshooting & Lessons Learned
+
+During this lab I learned how endpoint management platforms are used to support users and secure company devices.
+
+Key takeaways:
+- Verified devices before applying management policies
+- Learned how centralized management reduces manual configuration
+- Understood how identity and device security work together
+- Connected MDM concepts to real-world IT onboarding
 
 
 
